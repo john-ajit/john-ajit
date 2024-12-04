@@ -1,4 +1,4 @@
-Hi, I'm John Ajit, I'm a sophomore Data Science Student with a minor in Business Administration at Baylor University. I am very interested in sports analytics, especially NBA and NFL related. Check out my projects!
+Hi, I'm John Ajit, I'm a sophomore Data Science Student with a minor in Business Administration at Baylor University. I am very interested in sports analytics, especially NBA, NFL and NHL related. Check out my projects!
 
 <!---
 john-ajit/john-ajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
